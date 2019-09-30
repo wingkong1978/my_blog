@@ -1,6 +1,6 @@
 module.exports = {
-    title: '人强不需要马壮个人主页',
-    description: '人强不需要马壮的博客',
+    title: '人强不需要马壮',
+    description: '人强不需要马壮Blog',
     head: [
         ['link', { rel: 'icon', href: '/img/logo.ico' }],
         ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -10,16 +10,13 @@ module.exports = {
             { text: '主页', link: '/' },
             { text: '博文',
                 items: [
-                    { text: 'Android', link: '/android/' },
-                    { text: 'ios', link: '/ios/' },
-                    { text: 'Web', link: '/web/' }
+                    { text: 'study', link: '/study/' },
                 ]
             },
-            { text: '关于', link: '/about/' },
-            { text: 'Github', link: 'https://www.github.com/codeteenager' },
+            { text: 'Github', link: 'https://www.github.com/wingkong1978' },
         ],
         sidebar: {
-            '/android/': [
+            '/study/': [
                 "",
                 "android1"
             ],
