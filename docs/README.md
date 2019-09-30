@@ -1,3 +1,8 @@
-# 人强不需要马壮
-
-努力做好自己！
+---
+home: true
+bgImage: 'img/bg.jpg'
+bgImageStyle: {
+  height: '350px'
+}
+faceImage: 'img/hero.jpg'
+---
