@@ -1,11 +1,19 @@
 ---
 title: 有用参考(持续更新)  
 date: 2019-10-15
+categories:
+ - 开发
 tags:
 - userlinks
 ---
 
-+ [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
++ vue related
+
+  [vue.js](https://vuejs.org/)
+  [vuetify](https://vuetifyjs.com)
+  [vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/)
+
+
 + charts
 
   [echats](https://echarts.apache.org/en/index.html)
