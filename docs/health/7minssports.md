@@ -20,7 +20,7 @@ tags:
 
 7 分钟运动法，是一组 12 个动作训练。
 
-![](./.7minssports_images/29d074d6.png)
+![](./.7minssports_images/summary.png)
 
 ---
 
