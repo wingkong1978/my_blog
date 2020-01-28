@@ -13,7 +13,7 @@ tags:
 
 - 人民日报
     微信号: rmrbwx
-    ![](.coronavirus_images/53dcc338.png)
+    ![](./.coronavirus_images/53dcc338.png)
 
 
 ## 病情整理
