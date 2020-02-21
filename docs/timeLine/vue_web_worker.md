@@ -15,7 +15,9 @@ tags:
 
 前言： 曾经尝试使用Vue-worker, 但在使用过程中发现func里面需要调用其他function的时候就不行了， 不知道怎么写进去，因为时间关系就没有继续研究下去。因此还是使用work loader 实现 web loader
 
+安装worker-loader
 
+npm i worker-loader -S
 
 ## 配置vue.config.js
 
