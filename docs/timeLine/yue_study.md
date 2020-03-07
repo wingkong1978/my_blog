@@ -13,7 +13,7 @@ tags:
 
 - 课程表
 
-![](.yue_study_images/ac6fd352.png)
+![](./.yue_study_images/ac6fd352.png)
 
 
 
@@ -23,17 +23,17 @@ tags:
 
     - 语文 qq 扫描
 
-![](.yue_study_images/5e01dba3.png)
+![](./.yue_study_images/5e01dba3.png)
 
 
     - 数学 qq 扫描
 
-![](.yue_study_images/4296a01d.png)
+![](./.yue_study_images/4296a01d.png)
 
 
     - 英语 微信 群
 
-![](.yue_study_images/f8db6313.png)
+![](./.yue_study_images/f8db6313.png)
 
 
 - 交作业
@@ -42,8 +42,8 @@ tags:
 
 用 qq 扫描
 
-![](.yue_study_images/a01ff983.png)
+![](./.yue_study_images/a01ff983.png)
 
     - 英语在微信群交作业，把所有作业放在一起拍一张照片
 
-![](.yue_study_images/f8db6313.png)
+![](./.yue_study_images/f8db6313.png)
