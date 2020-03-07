@@ -19,7 +19,20 @@ tags:
 ![](./.yue_study_images/ac6fd352.png)
 
 ## 微课
-- [点播地址](http://tw.xttjzx.com/liveplatform/twliveLogin/toLogin)
+### [点播地址](http://tw.xttjzx.com/liveplatform/twliveLogin/toLogin)
+
+### 内容
+
+- 语文
+
+    - 第一课
+
+    [307三《古诗三首》](/307_1.pptx)
+
+- 数学
+
+    [《数学广角》第一课时（稍复杂的排列问题）](/307_math_1.pptx)
+
 
 ## 答疑群
 
