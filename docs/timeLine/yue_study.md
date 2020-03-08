@@ -16,7 +16,7 @@ tags:
 
 # 课程表
 
-![](./.yue_study_images/ac6fd352.png)
+![](./.yue_study_images/437bb662.png)
 
 ## 微课
 ### [点播地址](http://tw.xttjzx.com/liveplatform/twliveLogin/toLogin)
