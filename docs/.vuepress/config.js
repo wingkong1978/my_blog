@@ -38,5 +38,6 @@ module.exports = {
         ],
         type: 'blog'
     },
+    plugins: ['@vuepress/last-updated']
 
 }
