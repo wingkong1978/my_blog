@@ -51,11 +51,6 @@ tags:
 
 ## 交作业
 
-### - 语文，数学在老师助手
+### 老师助手
 <font style="color:red; font-size: 26px">QQ 扫描</font><img src="./.yue_study_images/a01ff983.png" style="width:200px;height:300px"></img>
 
-### - 英语在微信群交作业
-
-<font style='color:red;font-weight:800; font-size:30px'>把所有作业放在一起拍一张照片</font>
-
-<font style="color:red; font-size: 26px">微信 扫描</font><img src="./.yue_study_images/f8db6313.png" style="width:200px; height:300px"></img>
