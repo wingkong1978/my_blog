@@ -33,7 +33,6 @@ module.exports = {
         nav: [
             { text: 'Home', link: '/', icon: 'reco-home' },
             { text: 'TimeLine', link: '/timeLine/', icon: 'reco-date' },
-            { text: 'Health', link: '/health/', icon: 'reco-other' },
             { text: 'GitHub', link: 'https://github.com/wingkong1978', icon: 'reco-github' },
         ],
         type: 'blog'
