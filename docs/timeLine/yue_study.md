@@ -55,7 +55,7 @@ tags:
 <font style="color:red; font-size: 26px">QQ 扫描</font><img src="./.yue_study_images/a01ff983.png" style="width:200px;height:300px"></img>
 
 测试：
-
+燕子
 <video id="video" controls="" preload="none" >
-      <source id="mp4" src="http://cdn.teewonyun.com/Z000001/2020/3/7/mp4/17ea2b30-b636-454f-b514-455ef449d058.mp4" type="video/mp4">
+      <source id="mp4" src="http://cdn.teewonyun.com//Z000001/2020/3/8/mp4/6d9f1b94-cd3a-4202-b816-514671a045e4.mp4" type="video/mp4">
       </video>
